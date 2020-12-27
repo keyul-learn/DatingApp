@@ -1,5 +1,5 @@
 {
-  "FilePath": "f:\\Tutorial\\Angular\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+  "FilePath": "f:\\AngularDemo\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14387,7 +14387,7 @@
         }
       }
     ],
-    "CSharpLanguageVersion": 703
+    "CSharpLanguageVersion": 900
   },
   "RootNamespace": "DatingApp.API",
   "Documents": [],
